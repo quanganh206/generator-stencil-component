@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Quang Anh",
+      "authorEmail": "quanganh@aiti.com.vn",
+      "authorUrl": "https://xmobe.com"
+    }
+  }
+}
