@@ -1,4 +1,6 @@
-# generator-stencil-component [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-stencil-component 
+
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Local using to quick genenrate stencil component template
 
 ## Installation
@@ -13,7 +15,7 @@ npm install -g generator-stencil-component
 Then generate your new project:
 
 ```bash
-yo stencil-component
+yo stencil-component YourComponentName
 ```
 
 ## Getting To Know Yeoman

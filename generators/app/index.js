@@ -18,11 +18,6 @@ module.exports = class extends Generator {
     );
 
     const prompts = [
-      // {
-      //   type: 'input',
-      //   name: 'name',
-      //   message: 'Enter a name for the new component (i.e.: page-home): '
-      // },
       {
         type: 'input',
         name: 'folder',
